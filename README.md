@@ -43,7 +43,7 @@ This project uses the **UCI Adult Income dataset** to build a classification mod
 `README.md'  -    Project documentation (this file) 
 
 
----
+
 
 🧠 ML Model Details
 
@@ -52,5 +52,8 @@ This project uses the **UCI Adult Income dataset** to build a classification mod
 - **Accuracy Achieved**: ~87%
 - **Preprocessing**: Categorical encoding, numerical scaling
 - **Serialization**: Using `joblib`
+
+👩‍💻 Author
+Prachi Urgunde
 
 
